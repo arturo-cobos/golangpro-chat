@@ -1,0 +1,4 @@
+development:
+            driver: postgres
+            open: user=platzi dbname=platzi sslmode=disable password=platzi host=192.168.0.101
+
